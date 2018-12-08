@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cheepogram/cheepogram.iml" filepath="$PROJECT_DIR$/cheepogram/cheepogram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cryptography/cryptography.iml" filepath="$PROJECT_DIR$/cryptography/cryptography.iml" />
+      <module fileurl="file://$PROJECT_DIR$/incert/incert.iml" filepath="$PROJECT_DIR$/incert/incert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/incom/incom.iml" filepath="$PROJECT_DIR$/incom/incom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/insignt/insignt.iml" filepath="$PROJECT_DIR$/insignt/insignt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keyspreparator/keyspreparator.iml" filepath="$PROJECT_DIR$/keyspreparator/keyspreparator.iml" />
+    </modules>
+  </component>
+</project>
